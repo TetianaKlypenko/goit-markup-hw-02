@@ -1,0 +1,30 @@
+#header .logo{
+    font-family:"Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #2E2F42;
+    text-transform: uppercase;
+    letter-spacing: 0.54px;
+}
+
+.accent{
+    color: #4D5AE5;
+}
+.menu-link .link:hover{
+    color: #404BBF;
+}
+
+.menu-link a{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+}
+.contacts.link:hover {
+    color: #404BBF;
+}
+
+.contacts{
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    font-style: normal;
+}
