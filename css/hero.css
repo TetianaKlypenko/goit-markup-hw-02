@@ -22,9 +22,9 @@
 }
 
 .order:hover{
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .order:focus{
-    color: #404bbf;
+    background-color: #404bbf;
 }
