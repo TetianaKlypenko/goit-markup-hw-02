@@ -1,19 +1,11 @@
-#portfolio h2{
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.1;
-    letter-spacing: 0.72px;
-    text-align: center;
-}
-
-#portfolio h3{
+.decision{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.4px;
 }
 
-#portfolio p{
+.info{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;

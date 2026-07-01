@@ -1,6 +1,6 @@
 body{
     font-family: "Roboto", sans-serif;
-    color: #434445;
+    color: #434455;
     line-height: 1.5;
     background-color: #FFFFFF;
 }
@@ -16,5 +16,22 @@ a{
 }
 
 ul{
-    list-style-type: none;
+    list-style: none;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.54px;
+    line-height: 1.33;
+}
+
+.category{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+    text-align: center;
 }

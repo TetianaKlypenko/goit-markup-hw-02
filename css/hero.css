@@ -1,8 +1,8 @@
-#hero{
+.hero{
     background-color: #2E2F42;
 }
 
-#hero h1{
+.hero h1{
     color: #FFFFFF;
     font-weight: 700;
     font-size: 56px;
@@ -11,11 +11,20 @@
     letter-spacing: 1.12px;
 }
 
-#hero button{
+.order{
     color: #FFFFFF;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.64;
+    letter-spacing: 0.64px;
     background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.order:hover{
+    color: #404bbf;
+}
+
+.order:focus{
+    color: #404bbf;
 }
